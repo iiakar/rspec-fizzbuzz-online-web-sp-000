@@ -9,7 +9,7 @@ def fizzbuzz(int)
      int % 3 == 0 || % 5 == 0
     "FizzBuzz"
   else
-    nil
+    puts "No"
   end 
 end
 
