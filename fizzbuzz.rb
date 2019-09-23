@@ -8,6 +8,8 @@ def fizzbuzz(int)
   elsif
     "Fizz" == true && "Buzz" == true
     "FizzBuzz"
+  else 
+    nil
   end 
 end
 
